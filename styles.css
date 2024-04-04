@@ -6,8 +6,6 @@ div :first-child{
 	color:white;
 	background-color:black;
 }
-div :nth-child(2){
-}
 div :last-child{
 	color:red;
 }
